@@ -2,7 +2,9 @@
 
 use colab notebook to generate portrait art
 
+results 
 
+![Portraits](https://github.com/ak9250/stylegan-art/blob/master/portraitsbigger.jpg)
 
 
 ## StyleGAN &mdash; Official TensorFlow Implementation
