@@ -1,6 +1,6 @@
 # Stylegan for art
 
-use jupypter notebook to generate portraits
+use colab notebook to generate portrait art
 
 
 
