@@ -1,3 +1,10 @@
+# Stylegan for art
+
+use jupypter notebook to generate portraits
+
+
+
+
 ## StyleGAN &mdash; Official TensorFlow Implementation
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg?style=plastic)
 ![TensorFlow 1.10](https://img.shields.io/badge/tensorflow-1.10-green.svg?style=plastic)
