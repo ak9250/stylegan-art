@@ -1,6 +1,6 @@
-# Stylegan for art
+# Stylegan-art
 
-use colab notebook to generate portrait art
+use colab notebook to generate portrait art, currently this shows example of training on portrait art but can be used to train on any dataset through transfer learning, I have used to for things are varied as ctscans to fashion dresses. The pretrained model is included in the notebook to speed up training.
 
 results 
 
