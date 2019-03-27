@@ -6,6 +6,8 @@ results
 
 ![Portraits](https://github.com/ak9250/stylegan-art/blob/master/portraitsbigger.jpg)
 
+# for a indepth insight into the process see Gwerns great tutorial https://www.gwern.net/Faces
+
 
 ## StyleGAN &mdash; Official TensorFlow Implementation
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg?style=plastic)
