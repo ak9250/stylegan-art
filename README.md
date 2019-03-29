@@ -6,6 +6,8 @@ results
 
 ![Portraits](https://github.com/ak9250/stylegan-art/blob/master/portraitsbigger.jpg)
 
+# UPDATE: I made a kaggle kernel to train stylegan in same steps but for pokemon, only difference is kaggle uses a p100 instead of a k80 so it will reduce training time, here is the link https://www.kaggle.com/ahsenk/stylegan-pokemon
+
 # for a indepth insight into the process see Gwerns great tutorial https://www.gwern.net/Faces
 
 
